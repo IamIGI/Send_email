@@ -1,0 +1,12 @@
+Pogoda o godzinie 7: Clouds Opis: few clouds
+ Temperatura: 12.0
+
+Pogoda o godzinie 10: Clear Opis: clear sky
+ Temperatura: 10.6
+
+Pogoda o godzinie 15: Clear Opis: clear sky
+ Temperatura: 8.0
+
+Pogoda o godzinie 19: Clouds Opis: overcast clouds
+ Temperatura: 7.7
+
